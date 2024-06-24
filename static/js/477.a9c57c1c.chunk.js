@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[477],{477:(t,e,o)=>{o.r(e),o.d(e,{default:()=>p});o(43);var r=o(23),n=o.n(r),s=o(579);const p=function(){return(0,s.jsx)(n(),{options:{strings:["Int\xe9gratrice Web"],autoStart:!0,loop:!0,deleteSpeed:50}})}}}]);
+//# sourceMappingURL=477.a9c57c1c.chunk.js.map
